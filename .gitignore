@@ -1,0 +1,13 @@
+.git
+.idea
+target
+.settings
+**/.settings
+.project
+.classpath
+/features/**/src
+*.iml
+*.ipr
+*.iws
+.idea
+*.ids
