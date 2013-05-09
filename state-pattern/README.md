@@ -4,11 +4,13 @@ Known also as Objects for states pattern
 ## Intent
 
 >Allows an object to alter its behavior when its internal state changes.
+
 >In this approach usually object changes its class.
 
 ## Problem
 
 >Change of object's behavior at run-time.
+
 >Behavior change depends on actual object state.
 
 
