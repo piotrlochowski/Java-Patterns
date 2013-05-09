@@ -33,6 +33,6 @@ Known also as Objects for states pattern
 
 ## Structure
 
-[id]: https://raw.github.com/piotrziemniak/Java-Patterns/master/state-pattern/src/main/resources/State-pattern-diagram.gif
+[id]: https://raw.github.com/piotrziemniak/Java-Patterns/master/state-pattern/src/main/resources/State-pattern-diagram.gif "Source: http://sourcemaking.com/design_patterns/state"
 
 ![Diagram][id]
