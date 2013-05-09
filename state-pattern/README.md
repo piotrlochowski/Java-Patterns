@@ -28,6 +28,8 @@ Known also as Objects for states pattern
 
 3. Different states will be represented as derived classes of the state base class
 
+4. Method responsible for state transition (in state class) gets as a parameter instance of a context class
+
 
 ## Structure
 
