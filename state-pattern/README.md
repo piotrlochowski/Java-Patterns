@@ -15,18 +15,14 @@ Behavior change depends on actual object state.
 ## Pattern values
 
 1. Encapsulate behavior in scope of state *)
-2. Reduces
-``if``
-s.
+2. Reduces ``if``s.
 3. Basically reduces or removes state-change conditional logic.
 4. Simplifies state transitions.
 
 
 ## Procedure
 
-1. Define interface for ``
-clients``
-. This class will be responsible for assigning initial state. It is called context class.
+1. Define interface for ``clients``. This class will be responsible for assigning initial state. It is called context class.
 
 2. Define abstract class for object state
 
