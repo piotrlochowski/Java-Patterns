@@ -12,6 +12,14 @@ Change of object's behavior at run-time.
 Behavior change depends on actual object state.
 
 
+## Pattern values
+
+1. Encapsulate behavior in scope of state *)
+2. Reduces ``if``s.
+3. Basically reduces or removes state-change conditional logic.
+4. Simplifies state transitions.
+
+
 ## Procedure
 
 1. Define interface for ``
