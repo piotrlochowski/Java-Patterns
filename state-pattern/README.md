@@ -3,21 +3,21 @@ Known also as Objects for states pattern
 
 ## Intent
 
-Allows an object to alter its behavior when its internal state changes.
-In this approach usually object changes its class.
+    Allows an object to alter its behavior when its internal state changes.
+    In this approach usually object changes its class.
 
 ## Problem
 
-Change of object's behavior at run-time.
-Behavior change depends on actual object state.
+    Change of object's behavior at run-time.
+    Behavior change depends on actual object state.
 
 
 ## Pattern values
 
-1. Encapsulate behavior in scope of state *)
-2. Reduces ``if``s.
-3. Basically reduces or removes state-change conditional logic.
-4. Simplifies state transitions.
+* Encapsulate behavior in scope of state *)
+* Reduces ``if``s.
+* Basically reduces or removes state-change conditional logic.
+* Simplifies state transitions.
 
 
 ## Procedure
